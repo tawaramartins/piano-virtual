@@ -1,11 +1,21 @@
 <h1 align="center">Piano Virtual</h1>
+
+<div align="center">
+  
+<img width="360" src="https://github.com/tawaramartins/piano-virtual/blob/main/piano.png" alt="Piano Virtual">
+  
+</div>
+
+<p align="center">Projeto da <a href="https://www.youtube.com/watch?v=UftSB4DaRU4">MasterClass Manipulação de DOM com JavaScript</a> da <a href="https://app.rocketseat.com.br/">Rocketseat</a></p>
+
+
+
 <h4 align="center">Finalizado 🚀</h4>
 
 ## Índice
 
 - [Visão geral](#visão-geral)
   - [O desafio](#o-desafio)
-  - [Screenshot](#screenshot)
   - [Links](#links)
   - [Criado com](#integrado)
   - [O que aprendi](#o-que-aprendi)
@@ -20,10 +30,6 @@ Os usuários devem ser capazes de:
 
 - Ouvir os sons das teclas ao pressionarem ou ao clicarem.
 - Ver os efeitos das teclas.
-
-### 📌 Screenshot
-
-<img src="img/piano.png" alt="piano virtual" width="360">
 
 ### 🔗 Links
 
